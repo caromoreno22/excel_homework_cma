@@ -1,1 +1,1 @@
-# excel_homework_cma
+# kickstarter_analysis_cma
